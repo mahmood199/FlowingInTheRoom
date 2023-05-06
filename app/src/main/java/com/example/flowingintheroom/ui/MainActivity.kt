@@ -1,7 +1,8 @@
-package com.example.flowingintheroom
+package com.example.flowingintheroom.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.flowingintheroom.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
